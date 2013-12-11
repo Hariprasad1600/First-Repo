@@ -8,4 +8,8 @@ for i in ranfe(len(a)):
 
 
 hello how are u 
-say no to svn:git lover  
+what r u doing
+how is ur work
+when u r going to native
+say no to svn:git lover 
+ 
